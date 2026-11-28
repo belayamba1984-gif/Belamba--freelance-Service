@@ -1,0 +1,40 @@
+# Belamba: Freelance Quantity Surveying
+
+> Belamba is an independent freelance quantity surveying service based in Addis Ababa, Ethiopia. Clients send architectural and structural drawings (PDF) or a suitable IFC model, and receive quantity takeoffs, BOQs, bar bending schedules and related estimates remotely, usually as Excel and/or PDF files. Prices are quoted in US dollars.
+
+The site is a single page. Its sections are Web Cover Page, Home, Professional Background, Freelance Services, Pricing, Takeoff Samples, Submit Drawings & Contact, and 5D BIM & PlanSwift Results.
+
+## Services
+
+- 2D PDF material takeoffs: scale check, concrete volumes, blockwork, plastering and external finish areas.
+- BOQ setup: items grouped by trade, numbered, with units and short descriptions, delivered as an editable Excel file.
+- Bar Bending Schedule (BBS): bar marks, diameters, shapes, cutting lengths and total steel, where the structural drawings give enough reinforcement detail.
+- 5D BIM quantity extraction: volumes, areas and element counts from a sufficiently detailed IFC model, delivered as CSV or Excel.
+- Subcontractor trade takeoffs: quantity schedules for a single trade, for tendering or subcontract pricing.
+- Insurance repair BOQs: itemised repair quantities and estimates from photos, damage reports, drawings or models.
+
+## Pricing and terms
+
+- Guide prices are given in US dollars on the Pricing section. The final scope, fee and delivery time are confirmed by email after the project information is reviewed.
+- First-order offer: 50% off the prices in the tables, for projects priced at $600 or more; other arrangements can be discussed. Terms are confirmed in writing before work starts.
+- Payment stages: 30% upfront when the service agreement is signed, 30% at an agreed progress milestone, 40% when the work is complete.
+
+## How to work with Belamba
+
+1. Email the drawings (PDF) or an IFC model to belayamba1984@gmail.com. For large files, share a Google Drive or Dropbox link set to "Anyone with the link".
+2. Include the project location, scope and any specifications.
+3. Receive a quotation and delivery time by email.
+4. Sign the service agreement, then the work starts.
+
+## Contact
+
+- Email: belayamba1984@gmail.com
+- Location: Addis Ababa, Ethiopia
+- Time zone: East Africa Time (GMT+3)
+- Response time: replies to every inquiry within 24 hours
+
+## Links
+
+- [Belamba website](https://belamba--global-client-service.pages.dev/): the single-page site with services, pricing, samples and contact
+- [Sitemap](https://belamba--global-client-service.pages.dev/sitemap.xml): list of site pages
+- [Email Belamba](mailto:belayamba1984@gmail.com): send drawings or ask for a quotation
